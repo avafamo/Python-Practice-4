@@ -12,12 +12,12 @@
 
 # print(sum(19,6))
 
-# name = "mohammad"
-# family = "ordookhani"
+# name = "Ava"
+# family = "Mohseni"
 
 # person = {
-#     "name": "mohammad",
-#     "family": "ordookhani"
+#     "name": "Ava",
+#     "family": "Mohseni"
 # }
 
 
